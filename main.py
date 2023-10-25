@@ -1,3 +1,4 @@
+# safeah Hammosh
 # Encoder function
 def encode_password(password):
     encoded_password = ""
